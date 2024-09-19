@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGDb6Xgd5yMCw/profile-displaybackgroundimage-shrink_350_1400/0/1694577227917?e=1726704000&v=beta&t=TVVgjxPYedAkpufQB6wIJH0n2j--OHBfzYm8UqhpMqY)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Alkesh Shukla</h1>
 <h3 align="center">I am an enthusiastic Full Stack Web Developer with a passion for Data Science and Data Structures, currently pursuing a Bachelor's degree in Electronics and Communication Engineering. I specialize in crafting innovative solutions in Web Development, AI, and DS.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
