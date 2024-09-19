@@ -1,4 +1,3 @@
-![MasterHead]()
 <h1 align="center">Hi 👋, I'm Alkesh Shukla</h1>
 <h3 align="center">I am an enthusiastic Full Stack Web Developer with a passion for Data Science and Data Structures, currently pursuing a Bachelor's degree in Electronics and Communication Engineering. I specialize in crafting innovative solutions in Web Development, AI, and DS.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
