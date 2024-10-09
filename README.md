@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alkesh Shukla</h1>
 <h3 align="center">
   🚀 Passionate Full Stack Web Developer | Electronics and Communication Engineering Student at IIITS <br>
-  Enthusiast in Data Structures & Algorithms, C++, | Passion for Tech and Innovation
+  Enthusiast in Data Structures & Algorithms, C++ | Passion for Tech and Innovation
 </h3>
 
 
